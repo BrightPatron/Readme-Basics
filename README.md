@@ -17,7 +17,7 @@ This android application lets you:
 
 ## Permissions
 
-- Full microphone access
+- Full microphone access	:innocent:
 - Full camera access
 
 ## Installation
