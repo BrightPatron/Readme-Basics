@@ -36,4 +36,4 @@ This android application lets you:
 
 
 ## Author 
-
+This application is created by [Sandeep Verma](https://github.com/san-13).
