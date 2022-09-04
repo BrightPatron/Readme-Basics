@@ -8,11 +8,12 @@ It is a real time video calling android application between two or more devices.
 ## Features
 
 This android application lets you:
-->create a channel/join a channel throug meeting id
-->leave the channel
-->mute/unmute audio
-->Enable / disable video
-->Switch camera views
+
+- create a channel/join a channel throug meeting id
+- leave the channel
+- mute/unmute audio
+- Enable / disable video
+- Switch camera views
 
 ## Permissions
 
