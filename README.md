@@ -3,7 +3,7 @@
 ## Description
 
 //it is a android application for real time communication by means of video and audio between two or more devices.
-It is a real time video calling android application between two or more devices.You can download the apk file, install it and use it after signing in through username/password or google.
+- It is a real time video calling android application between two or more devices.You can download the apk file, install it and use it after signing in through username/password or google.
 
 ## Features
 
