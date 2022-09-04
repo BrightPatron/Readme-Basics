@@ -1,5 +1,7 @@
 # Catch Up
 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 ## Description
 
 //it is a android application for real time communication by means of video and audio between two or more devices.
