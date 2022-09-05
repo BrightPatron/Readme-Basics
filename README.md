@@ -82,4 +82,4 @@ link
 
 
 ## Contributers 
-This application is developed by [Sandeep Verma](https://github.com/san-13) ,[Aditya Tulsiyan](), [Udayan Mukherjee](https://github.com/UdayanMukherjee).
+This application is developed by [Sandeep Verma](https://github.com/san-13) ,[Aditya Tulsiyan](https://github.com/adity2911), [Udayan Mukherjee](https://github.com/UdayanMukherjee).
