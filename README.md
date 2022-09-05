@@ -27,15 +27,12 @@ This android application lets you:
 
 ## Visuals and Usage
 
-[<img src="/readme/---" align="left"
-width="200"
-    hspace="10" vspace="10">](/readme/---)
+[<img src="/readme/---" width="200" hspace="10" vspace="10">](/readme/---)
 firstly a splash screen
+
 <img src="/readme/get-started.jpeg" width="200" hspace="10" vspace="10">
 get started page-click on get started 
-[<img src="/readme/---" align="center"
-width="200"
-    hspace="10" vspace="10">](/readme/---)
+
 login page- login through details(username, password) or login by google if you already have account or create it
 
 <img src="/readme/create-account page.jpeg" width="200" hspace="10" vspace="10">
