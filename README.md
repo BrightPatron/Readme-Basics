@@ -34,10 +34,10 @@ This android application lets you:
 
 
 <img src="/readme/get-started.jpeg" width="200" hspace="10" vspace="10">
-Get started page -> Click on get started
+Get started page -> Click on get started to visit login page
 
 
-<img src="/readme/---" width="200" hspace="10" vspace="10">
+<img src="/readme/login page.jpeg" width="200" hspace="10" vspace="10">
 Login page- login through details(username, password) or login by google if you already have account or create it
 
 <img src="/readme/create-account page.jpeg" width="200" hspace="10" vspace="10">
