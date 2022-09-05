@@ -76,5 +76,5 @@ https://themeisle.com/blog/best-free-website-hosting/
 
 
 
-## Author 
-This application is created by [Sandeep Verma](https://github.com/san-13).
+## Contributers 
+This application is developed by @san-13
