@@ -23,13 +23,13 @@
 
 This android application lets you:
 
-- create a channel/join a channel through meeting id
-- leave the channel
-- mute/unmute audio
-- Enable / disable video
+- Create a channel/join a channel through meeting id
+- Leave the channel
+- Mute/unmute audio
+- Enable/disable video
 - Switch camera views
 - Video Conferencing (Multiple users can join at the single time)
-- end-to-end encryption(using salting) of the user password
+- End-to-end encryption(using salting) of the user password
 
 ## Visuals and Usage
 
@@ -76,4 +76,4 @@ https://themeisle.com/blog/best-free-website-hosting/
 
 
 ## Contributers 
-This application is developed by @san-13
+This application is developed by [Sandeep Verma]() ,[Aditya Tulsiyan](), [Udayan Mukherjee]().
