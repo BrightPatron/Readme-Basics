@@ -40,9 +40,7 @@ login page- login through details(username, password) or login by google if you 
 <img src="/readme/create-account page.jpeg" width="200" hspace="10" vspace="10">
 create account page - by giving you details (name, phone, email, password) or signin by google account.
 
-[<img src="/readme/---" align="center"
-width="200"
-    hspace="10" vspace="10">](/readme/---)
+[<img src="/readme/home page.jpeg" align="center" width="200" hspace="10" vspace="10">](/readme/---)
 home page- create the channel and share the meeting id through any means like whatsapp or any other messaging or social media platform /you can join through meeting id
 shared by someone who already created the meeting.
 
