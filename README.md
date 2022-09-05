@@ -58,8 +58,7 @@ This android application lets you:
 
 
 ## Installation
-
-https://themeisle.com/blog/best-free-website-hosting/
+link
 
 ## Future Plans
 
@@ -83,4 +82,4 @@ https://themeisle.com/blog/best-free-website-hosting/
 
 
 ## Contributers 
-This application is developed by [Sandeep Verma]() ,[Aditya Tulsiyan](), [Udayan Mukherjee]().
+This application is developed by [Sandeep Verma](https://github.com/san-13) ,[Aditya Tulsiyan](), [Udayan Mukherjee](https://github.com/UdayanMukherjee).
