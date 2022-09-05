@@ -31,6 +31,7 @@ This android application lets you:
 width="200"
     hspace="10" vspace="10">](/readme/---)
 firstly a splash screen
+<img src="/readme/get-started.jpeg" align="left" width="200" hspace="10" vspace="10">
 get started page-click on get started 
 [<img src="/readme/---" align="center"
 width="200"
@@ -44,9 +45,7 @@ create account page - by giving you details (name, phone, email, password) or si
 home page- create the channel and share the meeting id through any means like whatsapp or any other messaging or social media platform /you can join through meeting id
 shared by someone who already created the meeting.
 
-[<img src="/readme/---" align="center"
-width="200"
-    hspace="10" vspace="10">](/readme/---)
+<img src="/readme/video-call page.jpeg" align="left" width="200" hspace="10" vspace="10">
 video call page - after joining you can connect with your peers, colleagues, relatives around the world. the page contains a button that disable/enable the video, mute/ unmute the audio , switch cameras and disconnect/ leave the call
 
 
