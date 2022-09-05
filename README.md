@@ -49,7 +49,7 @@ This android application lets you:
 #### Video Calling Interface Page -> After joining you can connect with your peers, colleagues, relatives around the world. This page contains buttons that disable/enable the video, mute/ unmute the audio , switch cameras and disconnect/ leave the call
 
 <img src="/readme/group video call.jpeg" width="200" hspace="10" vspace="10"><br>
-#### Interface of multi-user video call in Catch Up
+<b> Interface of multi-user video call in Catch Up </b>
 
 ## Permissions
 
