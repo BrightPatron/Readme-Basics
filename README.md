@@ -5,6 +5,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -31,7 +32,12 @@ This android application lets you:
 
 ## Installation
 
-
+[<img src="/readme/Wallabag%20Reading%20List.png" align="left"
+width="200"
+    hspace="10" vspace="10">](/readme/Wallabag%20Reading%20List.png)
+[<img src="/readme/Wallabag%20Article%20View.png" align="center"
+width="200"
+    hspace="10" vspace="10">](/readme/Wallabag%20Article%20View.png)
 
 ## Support
 
