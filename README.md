@@ -37,9 +37,9 @@ width="200"
     hspace="10" vspace="10">](/readme/---)
 login page- login through details(username, password) or login by google if you already have account or create it
 
-[<img src="/readme/---" align="center"
+[<img src="/readme/create-account page.jpeg" align="center"
 width="200"
-    hspace="10" vspace="10">](/readme/---)
+    hspace="10" vspace="10">](/readme/create-account page.jpeg)
 create account page - by giving you details (name, phone, email, password) or signin by google account.
 
 [<img src="/readme/---" align="center"
