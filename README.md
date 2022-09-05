@@ -12,46 +12,43 @@
 
 ## Description
 
-//it is a android application for real time communication by means of video and audio between two or more devices.
-- It is a real time video calling android application between two or more devices.You can download the apk file, install it and use it after signing in through username/password or google.
+- It is a real time video calling android application between two or more devices.
+- To run the app, anyone can download and install the apk file and create a new account to get started.
+- The application provides a bunch of features to make your video calling experience seamless.
+- It also allows the user to create a account through which it can create a new meet or even join an ongoing one.
+- Connecting with your loved ones over a video can not be more simpler.
 
 ## Features
 
 This android application lets you:
 
-- create a channel/join a channel throug meeting id
+- create a channel/join a channel through meeting id
 - leave the channel
 - mute/unmute audio
 - Enable / disable video
 - Switch camera views
+- Video Conferencing (Multiple users can join at the single time)
+- end-to-end encryption(using salting) of the user password
 
 ## Visuals and Usage
 
-[<img src="/readme/---" width="200" hspace="10" vspace="10">](/readme/---)
-firstly a splash screen
 
 <img src="/readme/get-started.jpeg" width="200" hspace="10" vspace="10">
-get started page-click on get started 
+Get started page -> Click on get started
 
-login page- login through details(username, password) or login by google if you already have account or create it
+
+<img src="/readme/---" width="200" hspace="10" vspace="10">
+Login page- login through details(username, password) or login by google if you already have account or create it
 
 <img src="/readme/create-account page.jpeg" width="200" hspace="10" vspace="10">
-create account page - by giving you details (name, phone, email, password) or signin by google account.
+Create Account page - by giving you details (name, phone, email, password) or signin by google account.
 
 <img src="/readme/home page.jpeg" width="200" hspace="10" vspace="10">
-home page- create the channel and share the meeting id through any means like whatsapp or any other messaging or social media platform /you can join through meeting id
-shared by someone who already created the meeting.
+Home page- create the channel and share the meeting id through any means like whatsapp or any other messaging or social media platform / you can join through meeting id shared by someone who already created the meeting.
 
 <img src="/readme/video-call page.jpeg" width="200" hspace="10" vspace="10">
-video call page - after joining you can connect with your peers, colleagues, relatives around the world. the page contains a button that disable/enable the video, mute/ unmute the audio , switch cameras and disconnect/ leave the call
+Video calling interface page - after joining you can connect with your peers, colleagues, relatives around the world. the page contains a button that disable/enable the video, mute/ unmute the audio , switch cameras and disconnect/ leave the call
 
-
-[<img src="/readme/---" align="center"
-width="200"
-    hspace="10" vspace="10">](/readme/---)
-[<img src="/readme/---" align="right"
-width="200"
-    hspace="10" vspace="10">](/readme/---)
 
 ## Permissions
 
