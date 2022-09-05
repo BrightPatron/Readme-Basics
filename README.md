@@ -61,6 +61,13 @@ This android application lets you:
 
 https://themeisle.com/blog/best-free-website-hosting/
 
+## Future Plans
+
+- Profile Picture Update (Auto Fetch Profile Picture from Google Account after Google Oauth)
+- Screen Sharing
+- Live Chatting while video conferencing
+- Full Screen Mode (clicking on an indivisual video will maximize it)
+
 ## References
 
 - You can find resources about [WebRTC](https://webrtc.org/) and related documents [here](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Signaling_and_video_calling)
