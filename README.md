@@ -38,7 +38,7 @@ Get started page -> Click on get started to visit login page
 <img src="/readme/login page.jpeg" width="200" hspace="10" vspace="10">
 Login page -> Login through details(username, password) or login by google if you already have account otherwise create it.
 
-<img src="/readme/create-account page.jpeg" width="200" hspace="10" vspace="10"><br><br><br>
+<img src="/readme/create-account page.jpeg" width="200" hspace="10" ><br><br><br>
 Create Account page -> You can create account by giving you details (name, phone, email, password) or signin by Google account.
 
 <img src="/readme/home page.jpeg" width="200" hspace="10" vspace="10">
