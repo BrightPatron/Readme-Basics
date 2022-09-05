@@ -65,6 +65,7 @@ https://themeisle.com/blog/best-free-website-hosting/
 ## Support(Reference)
 
 - You can find resources about [WebRTC](https://webrtc.org/) and related documents [here](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Signaling_and_video_calling)
+- Find resouces for graphics design like wireframing websites, designing app interfaces [here](https://www.figma.com/file/PGhXSaP2NhSOIOjXU6RGAG/Flippr-Catchup-Softwire?node-id=0%3A1)
 - For potential issues, take a look at our [FAQ](https://docs.agora.io/en/faq) first
 - Dive into [Agora SDK Samples](https://github.com/AgoraIO) to see more tutorials
 - Take a look at [Agora Use Case](https://github.com/AgoraIO-usecase) for more complicated real use case
