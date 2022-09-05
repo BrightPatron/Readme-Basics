@@ -60,7 +60,7 @@ This android application lets you:
 
 https://themeisle.com/blog/best-free-website-hosting/
 
-## Support(Reference)
+## References
 
 - You can find resources about [WebRTC](https://webrtc.org/) and related documents [here](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Signaling_and_video_calling)
 - Find resouces for graphics design like wireframing websites, designing app interfaces by [Figma](https://www.figma.com/file/PGhXSaP2NhSOIOjXU6RGAG/Flippr-Catchup-Softwire?node-id=0%3A1)
