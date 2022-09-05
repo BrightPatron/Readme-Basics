@@ -38,9 +38,8 @@ width="200"
 login page- login through details(username, password) or login by google if you already have account or create it
 
 [<img src="/readme/create-account page.jpeg" align="center"
-width="200"
-    hspace="10" vspace="10">](/readme/create-account page.jpeg)
-create account page - by giving you details (name, phone, email, password) or signin by google account.
+width="100" hspace="10" vspace="10">](/readme/create-account page.jpeg)
+- create account page - by giving you details (name, phone, email, password) or signin by google account.
 
 [<img src="/readme/---" align="center"
 width="200"
