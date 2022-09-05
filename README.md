@@ -33,22 +33,22 @@ This android application lets you:
 ## Visuals and Usage
 
 <img src="/readme/get-started.jpeg" width="200" hspace="10" vspace="10"><br>
-##### Get started page -> Click on get started to visit login page
+#### Get started page -> Click on get started to visit login page
 
 <img src="/readme/login page.jpeg" width="200" hspace="10" vspace="10"><br>
-Login page -> Login through details(username, password) or login by google if you already have account otherwise create it.
+#### Login page -> Login through details(username, password) or login by google if you already have account otherwise create it.
 
 <img src="/readme/create-account page.jpeg" width="200"  hspace="10" vspace="10" ><br>
-Create Account page -> You can create account by giving you details (name, phone, email, password) or signin by Google account.
+#### Create Account page -> You can create account by giving you details (name, phone, email, password) or signin by Google account.
 
 <img src="/readme/home page.jpeg" width="200" hspace="10" vspace="10"><br>
-Home page -> Create the channel and share the meeting Id through any means like whatsapp or any other messaging or social media platform / you can join through meeting id shared by someone who already created the meeting.
+#### Home page -> Create the channel and share the meeting Id through any means like whatsapp or any other messaging or social media platform / you can join through meeting id shared by someone who already created the meeting.
 
 <img src="/readme/video-call page.jpeg" width="200" hspace="10" vspace="10"><br>
-Video Calling Interface Page -> After joining you can connect with your peers, colleagues, relatives around the world. This page contains buttons that disable/enable the video, mute/ unmute the audio , switch cameras and disconnect/ leave the call
+#### Video Calling Interface Page -> After joining you can connect with your peers, colleagues, relatives around the world. This page contains buttons that disable/enable the video, mute/ unmute the audio , switch cameras and disconnect/ leave the call
 
 <img src="/readme/group video call.jpeg" width="200" hspace="10" vspace="10"><br>
-Interface of multi-user video call in Catch Up
+#### Interface of multi-user video call in Catch Up
 
 ## Permissions
 
