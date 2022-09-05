@@ -16,7 +16,7 @@
 - To run the app, anyone can download and install the apk file and create a new account to get started.
 - The application provides a bunch of features to make your video calling experience seamless.
 - It also allows the user to create a account through which it can create a new meet or even join an ongoing one.
-- Connecting with your loved ones over a video can not be more simpler.
+- Connecting with your loved ones over a video call can not be simpler.
 
 ## Features
 
