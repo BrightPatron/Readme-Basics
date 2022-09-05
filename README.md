@@ -33,7 +33,7 @@ This android application lets you:
 ## Visuals and Usage
 
 <img src="/readme/get-started.jpeg" width="200" hspace="10" vspace="10"><br>
-Get started page -> Click on get started to visit login page
+##### Get started page -> Click on get started to visit login page
 
 <img src="/readme/login page.jpeg" width="200" hspace="10" vspace="10"><br>
 Login page -> Login through details(username, password) or login by google if you already have account otherwise create it.
