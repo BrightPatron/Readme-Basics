@@ -30,14 +30,21 @@ This android application lets you:
 - Full microphone access	
 - Full camera access
 
+## Screenshots
+
+[<img src="/readme/---" align="left"
+width="200"
+    hspace="10" vspace="10">](/readme/---)
+[<img src="/readme/---" align="center"
+width="200"
+    hspace="10" vspace="10">](/readme/---)
+[<img src="/readme/---" align="right"
+width="200"
+    hspace="10" vspace="10">](/readme/---)
+
 ## Installation
 
-[<img src="/readme/Wallabag%20Reading%20List.png" align="left"
-width="200"
-    hspace="10" vspace="10">](/readme/Wallabag%20Reading%20List.png)
-[<img src="/readme/Wallabag%20Article%20View.png" align="center"
-width="200"
-    hspace="10" vspace="10">](/readme/Wallabag%20Article%20View.png)
+https://themeisle.com/blog/best-free-website-hosting/
 
 ## Support
 
