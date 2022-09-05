@@ -49,6 +49,8 @@ Home page- create the channel and share the meeting id through any means like wh
 <img src="/readme/video-call page.jpeg" width="200" hspace="10" vspace="10">
 Video calling interface page - after joining you can connect with your peers, colleagues, relatives around the world. the page contains a button that disable/enable the video, mute/ unmute the audio , switch cameras and disconnect/ leave the call
 
+<img src="/readme/group video call.jpeg" width="200" hspace="10" vspace="10">
+
 
 ## Permissions
 
