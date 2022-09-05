@@ -25,16 +25,35 @@ This android application lets you:
 - Enable / disable video
 - Switch camera views
 
-## Permissions
-
-- Full microphone access	
-- Full camera access
-
-## Screenshots
+## Visuals and Usage
 
 [<img src="/readme/---" align="left"
 width="200"
     hspace="10" vspace="10">](/readme/---)
+firstly a splash screen
+get started page-click on get started 
+[<img src="/readme/---" align="center"
+width="200"
+    hspace="10" vspace="10">](/readme/---)
+login page- login through details(username, password) or login by google if you already have account or create it
+
+[<img src="/readme/---" align="center"
+width="200"
+    hspace="10" vspace="10">](/readme/---)
+create account page - by giving you details (name, phone, email, password) or signin by google account.
+
+[<img src="/readme/---" align="center"
+width="200"
+    hspace="10" vspace="10">](/readme/---)
+home page- create the channel and share the meeting id through any means like whatsapp or any other messaging or social media platform /you can join through meeting id
+shared by someone who already created the meeting.
+
+[<img src="/readme/---" align="center"
+width="200"
+    hspace="10" vspace="10">](/readme/---)
+video call page - after joining you can connect with your peers, colleagues, relatives around the world. the page contains a button that disable/enable the video, mute/ unmute the audio , switch cameras and disconnect/ leave the call
+
+
 [<img src="/readme/---" align="center"
 width="200"
     hspace="10" vspace="10">](/readme/---)
@@ -42,11 +61,17 @@ width="200"
 width="200"
     hspace="10" vspace="10">](/readme/---)
 
+## Permissions
+
+- Full microphone access	
+- Full camera access
+
+
 ## Installation
 
 https://themeisle.com/blog/best-free-website-hosting/
 
-## Support
+## Support(Reference)
 
 - You can find resources about [WebRTC](https://webrtc.org/) and related documents [here](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Signaling_and_video_calling)
 - For potential issues, take a look at our [FAQ](https://docs.agora.io/en/faq) first
